@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohansaha636
 - 👀 I’m interested in ... gaming  and  coding 
-- 🌱 I’m currently learning ... c/c++ , dsa 
+- 🌱 I’m currently learning ... c/c++ , dsa , java , phython
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rohansaha636@gmail.com 
 - 😄 Pronouns: ...  boy  , he/him 
