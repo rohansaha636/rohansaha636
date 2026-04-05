@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Saha</h1>
 <h3 align="center">Machine Learning Enthusiast | Python Developer | Computer Science Student</h3>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Deep+Learning+Learner;Python+Developer;Always+Learning+New+Things" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Deep+Learning+Learner;Python+Developer;Always+Learning+New+Things" />
+</p>
 
 ---
 
