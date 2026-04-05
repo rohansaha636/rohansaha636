@@ -44,14 +44,16 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=rohansaha636&theme=radical" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/rohansaha636/rohansaha636/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohansaha636/rohansaha636/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
