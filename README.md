@@ -1,50 +1,56 @@
 <h1 align="center">Hi 👋, I'm Rohan Saha</h1>
-<h3 align="center">Machine Learning Enthusiast | Python Developer | Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Deep+Learning+Learner;Python+Developer;Always+Learning+New+Things" />
+  <img src="https://komarev.com/ghpvc/?username=rohansaha636&label=Profile%20Views&color=00ffcc&style=flat-square" />
+</p>
+<h3 align="center">⚡ Machine Learning Enthusiast | Python Developer | CS Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Deep+Learning+Learner;Python+Developer;AI+Explorer;Building+Cool+Stuff+🚀" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-* 🎓 Computer Science student
-* 🤖 Currently learning **Machine Learning & Deep Learning**
-* 📚 Interested in **AI, Algorithms, and Data Science**
-* 💻 Building projects and sharing notes on GitHub
-* 🚀 Always exploring new technologies
+- 🎓 Computer Science Student  
+- 🤖 Learning **Machine Learning & Deep Learning**  
+- 📊 Interested in **AI, Algorithms & Data Science**  
+- 💻 Building real-world projects  
+- 🚀 Always exploring new tech  
 
 ---
 
-## 🚀 Tech Stack
+## 🧑‍💻 Tech Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,docker,html,git,androidstudio,unity&theme=dark" />
 
 </p>
 
----
+<p align="center">
 
+<img src="https://img.shields.io/badge/TensorFlow-ff7300?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-ff0000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-7a00ff?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+</p>
+
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohansaha636&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohansaha636&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rohansaha636&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=rohansaha636&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -57,24 +63,46 @@
 
 ---
 
+
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://instagram.com/rohansaha2505">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.kaggle.com/rohansaha636">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-00ffff?style=for-the-badge&logo=kaggle&logoColor=black"/>
 </a>
 
 <a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-ff0033?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*
+## 🎯 Current Focus & Goals
+
+<p align="center" style="color:#00d9ff; font-weight:600;">
+⚡ AI SYSTEM STATUS — ONLINE
+</p>
+
+
+```bash
+> initializing modules...
+> loading models...
+> ready ✔
+
+🧠 Deep Learning     → Active  
+🔍 Computer Vision   → Exploring  
+⚙️ ML Projects       → Building  
+📊 Data Analysis     → Practicing  
+
+---
+
+🚀 AI Projects       → Contribute  
+🌍 Real-world Apps   → Build  
+📚 DSA               → Master  
