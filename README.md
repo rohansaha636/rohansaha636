@@ -19,7 +19,7 @@
 - 💻 Building real-world projects  
 - 🚀 Always exploring new tech  
 
----
+--
 
 ## 🧑‍💻 Tech Stack
 
