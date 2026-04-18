@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Deep+Learning+Learner;Python+Developer;AI+Explorer;Building+Cool+Stuff+🚀" />
 </p>
-
 ---
 
 ## 🧠 About Me
